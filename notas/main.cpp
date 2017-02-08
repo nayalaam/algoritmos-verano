@@ -32,8 +32,10 @@ int main() {
 	prom=(sumaa+sumad)/15;
 
 	cout<<"\n el promedio de los aprobados es :"<<pdesa;
-	cout<<"\n el promedio de los desaprobados es"<<papro;
+	cout<<"\n el promedio de los desaprobados es: "<<papro;
 	cout<<"\n el promedio total es: "<<prom;
+	cout<<"\n la cantidad de aprobados es: "<<ca<<"\n La cantidad de desaprobados es: "<<cd;
+	
 
 	return 0;
 }
